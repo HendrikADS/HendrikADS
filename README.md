@@ -1,4 +1,4 @@
-### Xablauuuuuuuuuu👋
+### Hello Dev Hendrik!!!👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HendrikADS&show_icons=true&theme=radical)
 
@@ -10,7 +10,7 @@
   <img align="center" alt="Hendrik-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Hendrik-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Hendrik-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Hendrik-pic" height="150" style="border-radius:50px;" 
+  
 </div>
   
   ##
